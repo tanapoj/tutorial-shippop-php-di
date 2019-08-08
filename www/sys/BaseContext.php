@@ -2,5 +2,5 @@
 
 namespace sys;
 
-class BaseContext extends DebugContext{
+class BaseContext extends Context{
 }
