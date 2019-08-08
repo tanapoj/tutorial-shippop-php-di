@@ -17,3 +17,5 @@ then open browser to
 ```
 localhost:8080/
 ```
+
+or, if you use LAMP Stack (or WAMP, MAMP), such as WampServer and Xampp, copy www to your platform `www` or `htdocs`
