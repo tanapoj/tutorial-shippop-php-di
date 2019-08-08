@@ -13,3 +13,7 @@ using docker
 ```
 docker-compose up
 ```
+then open browser to
+```
+localhost:8080/
+```
